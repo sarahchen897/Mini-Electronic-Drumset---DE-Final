@@ -1,3 +1,4 @@
+#The ADC reads the input value and voltage, then prints it
 import board
 i2c = board.I2C()
 from adafruit_ads1x15 import ADS1015, AnalogIn, ads1x15
