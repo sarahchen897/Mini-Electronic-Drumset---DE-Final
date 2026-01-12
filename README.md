@@ -9,6 +9,7 @@ I chose to use a piezo sensor to act as the drum since the voltage it generates 
 I also used an analog to digital converter since the Raspberry Pi 4 that I used doesn't have analog pins, so I selected the ADS1015 12-bit ADC because of its faster sampling rates
 
 <img width="1362" height="1060" alt="ADC" src="https://github.com/user-attachments/assets/1de1086a-d877-433c-b4a3-9f3687f1685d" />
+
 # CAD
 I started in Onshape and first made a model of one of the drums to put the piezo in, which was a disk with walls around the perimeter and a tiny slit in the walls for the wires to go through
 
