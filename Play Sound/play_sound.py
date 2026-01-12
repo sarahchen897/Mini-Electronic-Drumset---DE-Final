@@ -1,3 +1,4 @@
+#When a hit (above 1.2 volts) is detected, the snare audio file will play and the code will stop
 import board
 import time
 import subprocess
